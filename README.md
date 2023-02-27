@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pacman1979
-- 👀 I’m interested in ... learning Python, Blockchain development as well as everything else to become a Certified Ethical Hacker
-- 🌱 I’m currently learning ... Python
+- 👀 I’m interested in ... learning Solidity, JavaScript and anything else to become a Blockchain Developer!
+- 🌱 I’m currently learning ... Solidity, Ethers.js, Javascript, Redux, React.js
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... cryptotraderphil@protonmail.com
 
