@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Pacman1979
-- 👀 I’m interested in ... learning Solidity, JavaScript and anything else to become a Blockchain Developer!
-- 🌱 I’m currently learning ... Solidity, Ethers.js, Javascript, Redux, React.js
-- 💞️ I’m looking to collaborate on ... 
+- 👋 Hi, I’m Phil Campbell!
+- 👀 I’m interested in ... anything to improve my Blockchain Developer skills!
+- 🌱 I’m currently learning ... HTML, CSS and React.js to improve my front-end skills.
+- 💞️ I’m looking to collaborate on ... any Blockchain project that aims to build a better world!
 - 📫 How to reach me ... cryptotraderphil@protonmail.com
 
 <!---
